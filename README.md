@@ -2,35 +2,35 @@
 
 ## Trip Overview
 
-- **October 4:** Fly out of Denver.
-- **October 5–12:** Stay in Tokyo for one week (7 nights).
+- **October 4:** Depart Denver for Tokyo Narita International Airport (NRT).
+- **October 5–12:** Arrive at Narita International Airport (NRT) and stay in Tokyo for one week (7 nights).
 - **October 12–13:** Stay in Kawaguchiko (Lake Kawaguchi), in the Mount Fuji area (1 night).
 - **October 13–20:** Explore the Kansai region, including Kyoto and Osaka (7 nights).
-- **October 20:** Fly back to Denver.
+- **October 20:** Depart Osaka via Kansai International Airport (KIX) for Denver.
 
-*This outline assumes arrival in Japan on October 5. Exact timing depends on the flights booked.*
+*This outline assumes arrival at Narita (NRT) on October 5. Exact timing depends on the flights booked.*
 
 ## Daily Outline
 
 | Date | Overnight | Plan |
 | --- | --- | --- |
-| October 4 | In transit | Depart Denver for Japan. |
-| October 5 | Tokyo | Arrive, check in, and settle in. |
+| October 4 | In transit | Depart Denver for Tokyo Narita (NRT). |
+| October 5 | Tokyo | Arrive at Narita (NRT), transfer to Tokyo, check in, and settle in. |
 | October 6 | Tokyo | Harajuku: Meiji Jingu, Takeshita Street, and Omotesando. |
 | October 7 | Tokyo | Inokashira Park and Kichijoji, then Nakano Broadway for manga and collectibles. |
 | October 8 | Tokyo | Toyosu Market, optional teamLab Planets, and Ginza shopping. |
 | October 9 | Tokyo | Asakusa: Senso-ji, Nakamise shopping street, and the Sumida River. |
 | October 10 | Tokyo | Shibuya: Pokémon Center, Shibuya Crossing, and MEGA Don Quijote. |
 | October 11 | Tokyo | Imperial Palace East Gardens, Akihabara, and optional Ueno Park. |
-| October 12 | Kawaguchiko | Take the FUJI EXCURSION train from Shinjuku to Kawaguchiko; explore Lake Kawaguchi and stay overnight. |
+| October 12 | Kawaguchiko | Travel to Kawaguchiko; visit Oishi Park or the Panorama Ropeway, then relax overnight. |
 | October 13 | Kyoto | Bus from Kawaguchiko to Mishima, then Shinkansen to Kyoto; settle in. |
-| October 14 | Kyoto | Fushimi Inari, a matcha tea ceremony in Higashiyama, and Gion. |
+| October 14 | Kyoto | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
 | October 15 | Kyoto | Arashiyama Bamboo Grove, Tenryu-ji gardens, and Togetsukyo Bridge. |
 | October 16 | Kyoto | Nara day trip: Nara Park, the Great Buddha at Todai-ji, and Kasuga Taisha. |
 | October 17 | Osaka | Transfer to Osaka; Kuromon Market, Hozenji Yokocho, and Dotonbori. |
 | October 18 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and a relaxed Osaka evening. |
 | October 19 | Osaka | Kobe day trip for Kobe beef, Nankinmachi, and the waterfront; return to Osaka to pack. |
-| October 20 | — | Fly back to Denver. |
+| October 20 | — | Depart from Kansai International Airport (KIX) for Denver. |
 
 ## Tokyo Recommendations — October 5–11
 
@@ -66,19 +66,39 @@ Start the morning at the **Imperial Palace East Gardens** for gardens and the re
 
 The East Gardens visit does not include entry into the palace buildings. The gardens normally close on Mondays and Fridays, with holiday exceptions and occasional additional closures; check the calendar before visiting. October 11 falls on a Sunday in 2026, so it fits the regular garden schedule. [Official Imperial Palace East Gardens visitor information](https://www.kunaicho.go.jp/en/visit/event/higashigyoen/).
 
+## Kawaguchiko Recommendations — October 12–13
+
+Make this a relaxed overnight stay focused on **Lake Kawaguchi**, Mount Fuji views, and time at your accommodation. Choose one main sightseeing stop after arriving from Tokyo, with a second only if time and weather allow. Mount Fuji visibility depends on cloud cover, so keep the order flexible.
+
+### October 12: Lake Views and a Relaxed Evening
+
+After arriving and dropping off your bags, have lunch and head to **Oishi Park** on the lake's north shore for a lakeside stroll and views toward Mount Fuji. Leave time for a café stop rather than trying to circle the entire lake. [Official Oishi Park guide](https://www.yamanashi-kankou.jp/english/explore-by-area/fujisan-fujigoko/flower-street-in-oishi-park.html).
+
+If the weather is clear, consider the **Mt. Fuji Panorama Ropeway** as an alternative main stop, or an extra if arrival time and queues permit. It offers elevated views over Lake Kawaguchi and toward Mount Fuji. Check operating information on the day before committing to the trip. [Official ropeway website](https://www.mtfujiropeway.jp/en/).
+
+For lunch or dinner, try **hoto**, Yamanashi's flat noodles simmered with vegetables in a miso-based broth. Spend the evening relaxing at your hotel; if you choose a ryokan with an **onsen and dinner**, reserve the meal plan and confirm its check-in and dinner times. [Official guide to hoto](https://www.yamanashi-kankou.jp/english/staff-journal/houtou.html).
+
+### October 13: Lakeside Morning Before Kyoto
+
+Have breakfast and take a short lakeside walk near your accommodation if time allows. Keep the morning simple so you can collect your luggage and reach Kawaguchiko Station comfortably for the reserved bus to Mishima. See [Transportation](#transportation) for the onward route to Kyoto.
+
+### Rainy-Day Alternative
+
+If clouds or rain limit the views, consider the **Itchiku Kubota Art Museum** for its textile and kimono art instead of the ropeway. Check the opening calendar before visiting, then leave the rest of the day for cafés and relaxing at your accommodation. [Official museum website](https://www.itchiku-museum.com/).
+
 ## Kansai Recommendations — October 13–20
 
-Use **Kyoto as your base for October 13–17** and **Osaka for October 17–20**, with day trips to Nara and Kobe. Keep the arrival day light, and book the matcha ceremony and Kobe beef meal once the timing is settled.
+Use **Kyoto as your base for October 13–17** and **Osaka for October 17–20**, with day trips to Nara and Kobe. Keep the arrival day light, and book the Uji matcha ceremony and Kobe beef meal once the timing is settled.
 
 ### October 13: Arrive in Kyoto
 
 Take the reserved bus from Kawaguchiko Station to Mishima Station, then the Tokaido Shinkansen to Kyoto (see [Transportation](#transportation)). Check in and have an easy dinner near your hotel. If you arrive with energy to spare, take a short evening walk along the **Kamogawa River**. Save the main sightseeing for the next morning.
 
-### October 14: Fushimi Inari, Matcha Ceremony, and Gion
+### October 14: Fushimi Inari and Uji Matcha Ceremony
 
-Start early at **Fushimi Inari Taisha** to walk through the torii gates. Explore the lower trails at your own pace; a full summit hike would make this a longer day. Head to **Higashiyama** for lunch and a reserved **matcha tea ceremony**, choosing a session that explains tea preparation and etiquette. Leave a generous travel and lunch buffer before the booking. [Official Fushimi Inari guide](https://www.japan.travel/en/spot/1128/) and [Kyoto tea ceremony experiences](https://kyoto.travel/en/experiences/).
+Start early at **Fushimi Inari Taisha** to walk through the torii gates, then spend the afternoon in **Uji** for your **matcha tea ceremony**. This is the best fit geographically: Inari and Uji are on the JR Nara Line, so you can continue south after the shrine visit. Keep the shrine visit to the lower trails and leave time for lunch, the journey, and the walk to the ceremony venue before your reserved session. [Official Fushimi Inari guide](https://www.japan.travel/en/spot/1128/) and [Kyoto rail guide](https://kyoto.travel/en/getting-around/getting-around-kyoto-by-subway-train/).
 
-Spend the rest of the afternoon exploring **Gion** and **Yasaka Shrine**, followed by dinner nearby. If you prefer a fuller sightseeing day, add **Kiyomizu-dera** and the lanes of **Sannenzaka and Ninenzaka**, but shorten the Fushimi Inari walk and arrange the ceremony time accordingly. [Official Gion and Kiyomizu guide](https://kyoto.travel/en/areas/gion-kiyomizu/).
+Arrange the rest of the Uji visit around the ceremony time: explore **Byodoin Temple**, browse the tea shops along its approach, and enjoy a walk by the **Uji River**. Check temple hours when choosing the order. Return to Kyoto for dinner; **Gion** is an optional evening stroll if you still have energy. Keep Kiyomizu-dera for another visit or a deliberate swap with another sightseeing stop rather than squeezing it into this day. [Official Byodoin website](https://www.byodoin.or.jp/en/) and [official Gion guide](https://kyoto.travel/en/areas/gion-kiyomizu/).
 
 ### October 15: Arashiyama
 
@@ -104,7 +124,7 @@ After lunch, browse **Nankinmachi (Chinatown)**, then enjoy the waterfront aroun
 
 ### October 20: Fly Home
 
-Check out and travel to the airport for your flight back to Denver. Keep sightseeing off the schedule until the departure airport and flight time are confirmed.
+Check out and travel to **Kansai International Airport (KIX)** for your flight back to Denver. Keep sightseeing off the schedule until the flight time is confirmed.
 
 ## Transportation
 
@@ -128,7 +148,7 @@ For the train, look for a **direct Hikari from Mishima to Kyoto** when its depar
 
 **Tickets and payment:** Use trains and subways for the main journeys, then walk within each sightseeing area. Keep using your **Suica or PASMO from Tokyo**, or get an **ICOCA**; these cards work on participating Kansai transport networks. Top up as needed. Buy the Mishima–Kyoto Shinkansen ticket separately, and purchase any required limited-express supplement in addition to the basic fare. For this itinerary, I recommend individual tickets and an IC card as the starting point; compare a pass only once your exact trips are fixed. [Official IC-card coverage](https://www.westjr.co.jp/global/en/howto/icoca/area/).
 
-**Kyoto sightseeing — October 14–15:** From Kyoto Station, take a **JR Nara Line local train to Inari Station** for Fushimi Inari; make sure the service stops at Inari. For Gion afterward, walk to **Keihan Fushimi-inari Station** and take a service stopping at **Gion-shijo**. Choose the final stop for the tea ceremony once its address is known. For Arashiyama, take the **JR Sagano Line from Kyoto Station to Saga-Arashiyama**, then walk to the bamboo grove and temples. Use buses or a short taxi ride where they save a long walk, but favor rail for crossing the city. [Official Kyoto transport guide](https://kyoto.travel/en/getting-around/) and [Arashiyama access](https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/).
+**Kyoto sightseeing — October 14–15:** From Kyoto Station, take a **JR Nara Line local train to Inari Station** for Fushimi Inari; make sure the service stops at Inari. After the shrine, continue on a **JR Nara Line local train from Inari to Uji** for the matcha ceremony. Check the walk from **JR Uji Station** to the venue once its address is confirmed; JR Uji and Keihan Uji are separate stations. Return from JR Uji to Kyoto Station after sightseeing. For Arashiyama, take the **JR Sagano Line from Kyoto Station to Saga-Arashiyama**, then walk to the bamboo grove and temples. Use buses or a short taxi ride where they save a long walk, but favor rail for crossing the city. [Official Kyoto transport guide](https://kyoto.travel/en/getting-around/) and [Arashiyama access](https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/).
 
 **Nara day trip — October 16:** I recommend **Kintetsu Kyoto → Kintetsu-Nara**, which puts you within walking distance of Nara Park. Depending on the departure, you may need to change at **Yamato-Saidaiji**. An ordinary express is a practical choice; a limited express requires an additional ticket. Walk between the park, Todai-ji, and Kasuga Taisha, using a local bus if you want to reduce walking. Return to Kyoto that evening. [Official Kintetsu route and timetable information](https://www.kintetsu.co.jp/foreign/english/index.html).
 
@@ -138,13 +158,13 @@ For the train, look for a **direct Hikari from Mishima to Kyoto** when its depar
 
 **Kobe day trip — October 19:** Take the **JR Kobe Line Special Rapid from Osaka Station to Sannomiya**, allowing roughly **25–30 minutes on the train**. Use central Sannomiya as the starting point for lunch; the restaurant address may make another station more convenient. Explore Nankinmachi and the waterfront on foot, with local transport for longer stretches, then return to Osaka by train. [Official Kobe access information](https://www.feel-kobe.jp/access/) and [getting around Kobe](https://www.feel-kobe.jp/en/access/inside.html).
 
-**Airport transfer — October 20:** If your flight leaves from **Kansai International Airport (KIX)** and you stay near Namba, use the **Nankai Airport Express** or reserved-seat **Rapi:t** from Nankai Namba Station. Choose the final route and departure time after the hotel and airport are confirmed. [Official Nankai Rapi:t information](https://www.howto-osaka.com/en/rapit/).
+**Airport transfer — October 20:** For your departure from **Kansai International Airport (KIX)**, if you stay near Namba, use the **Nankai Airport Express** or reserved-seat **Rapi:t** from Nankai Namba Station. Choose the final route and departure time after the hotel and flight time are confirmed. [Official Nankai Rapi:t information](https://www.howto-osaka.com/en/rapit/).
 
 ## Details to Finalize
 
-- Flights: Denver to Tokyo, then return from Kansai if flight options work.
+- Flights: Denver to Tokyo Narita (NRT), returning from Osaka Kansai (KIX) to Denver; finalize flight times and airport transfers.
 - Tokyo accommodation and neighborhood.
 - Accommodation in Kawaguchiko and transportation from the station to the hotel.
 - Book Tokyo–Kawaguchiko transportation, the Kawaguchiko–Mishima bus, and the Mishima–Kyoto Shinkansen with a traffic buffer.
 - Kyoto and Osaka accommodation; the proposed Kansai split is 4 nights in Kyoto and 3 in Osaka.
-- Reserve the Kyoto matcha tea ceremony and Kobe beef meal; finalize remaining activities and transportation for the Nara and Kobe day trips.
+- Reserve the Uji matcha tea ceremony for October 14 and Kobe beef meal; finalize remaining activities and transportation for the Nara and Kobe day trips.
