@@ -192,9 +192,15 @@ For the train, look for a **direct Hikari from Mishima to Kyoto** when its depar
 
 ## Details to Finalize
 
-- Flights: Denver to Tokyo Narita (NRT), returning from Osaka Kansai (KIX) to Denver; finalize flight times and airport transfers.
-- Tokyo accommodation and neighborhood.
-- Accommodation in Kawaguchiko and transportation from the station to the hotel.
-- Book Tokyo–Kawaguchiko transportation, the Kawaguchiko–Mishima bus, and the Mishima–Kyoto Shinkansen with a traffic buffer.
-- Kyoto and Osaka accommodation; the proposed Kansai split is 4 nights in Kyoto and 3 in Osaka.
-- Reserve the Uji matcha tea ceremony for October 14 and Kobe beef meal; finalize remaining activities and transportation for the Nara and Kobe day trips.
+**No listed service strictly requires booking before you fly to Japan.** Reservations are tied to the train or bus departure, not your arrival in Japan. For this itinerary, **book the October 12–13 journeys before leaving Denver on October 4** to secure your preferred departures; this is a planning recommendation, not an operator requirement. Availability is not guaranteed if you wait.
+
+The flags below distinguish **BOOK BEFORE OCTOBER 4 — RECOMMENDED** from **CAN BOOK IN JAPAN**.
+
+- **October 5 — Narita airport train:** **CAN BOOK IN JAPAN.** Choose **Narita Express or Keisei Skyliner** based on your hotel and obtain the appropriate ticket and seat assignment before boarding. Booking days ahead is optional; choosing a departure after immigration and baggage collection gives more flexibility. [Narita Express](https://www.jreast.co.jp/en/multi/nex/) and [Skyliner](https://new-www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/index.php).
+- **October 12 — Shinjuku → Kawaguchiko:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the **FUJI EXCURSION** train ahead for your preferred departure. If choosing the **direct highway bus instead**, reserve that service; book one option for this journey. [Train information](https://e.fujikyu-railway.jp/fujikaiyuu/) and [bus reservations](https://highway-buses.jp/course/kawaguchiko.php).
+- **October 13 — Kawaguchiko → Mishima:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Advance booking is strongly recommended for the **Mishima–Kawaguchiko Liner**. Choose the bus before fixing the onward train, allowing at least the recommended 45–60-minute connection buffer. [Bus reservations](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html).
+- **October 13 — Mishima → Kyoto:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve your **Shinkansen seat** ahead, including any connecting train if needed. Advance reservation is recommended for a guaranteed seat; it is not mandatory for ordinary non-reserved Hikari/Kodama seating. [Smart EX booking](https://smart-ex.jp/en/).
+- **October 16 — Kyoto ↔ Nara, only if choosing a Kintetsu limited express:** **CAN BOOK IN JAPAN.** Reserve a seat for each limited-express journey you choose. **Ordinary express trains need no reservation.** [Kintetsu limited-express tickets](https://www.kintetsu.co.jp/foreign/english/about/limited_express/ticket.html).
+- **October 20 — Namba → Kansai Airport, only if choosing Rapi:t:** **CAN BOOK IN JAPAN.** Buy a **reserved-seat Rapi:t ticket** before boarding; booking ahead secures your preferred departure. **The Nankai Airport Express needs no seat reservation.** [Rapi:t information](https://www.howto-osaka.com/en/rapit/).
+
+The ordinary JR trains, Special Rapid services, subways, and local sightseeing buses in this itinerary do not need advance seat reservations. Confirm with your Kawaguchiko accommodation whether its station shuttle requires a booking, if you plan to use one.
