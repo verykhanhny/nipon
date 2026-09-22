@@ -204,3 +204,13 @@ The flags below distinguish **BOOK BEFORE OCTOBER 4 — RECOMMENDED** from **CAN
 - **October 20 — Namba → Kansai Airport, only if choosing Rapi:t:** **CAN BOOK IN JAPAN.** Buy a **reserved-seat Rapi:t ticket** before boarding; booking ahead secures your preferred departure. **The Nankai Airport Express needs no seat reservation.** [Rapi:t information](https://www.howto-osaka.com/en/rapit/).
 
 The ordinary JR trains, Special Rapid services, subways, and local sightseeing buses in this itinerary do not need advance seat reservations. Confirm with your Kawaguchiko accommodation whether its station shuttle requires a booking, if you plan to use one.
+
+### Backup Routes if Reserved Services Are Sold Out
+
+**Tokyo → Kawaguchiko:** Take ordinary **JR Chuo Line trains from Shinjuku to Otsuki**, changing at **Takao** if needed, then a **Fujikyu Railway local train to Kawaguchiko**. These ordinary trains do not require seat reservations; use Suica or buy basic-fare tickets. Allow roughly **3 hours**, depending on connections, and be prepared to stand on busy trains. This is the fallback if both FUJI EXCURSION and the direct highway bus are full. [JR East's alternative-route guidance](https://www.jreast.co.jp/multi/traininformation/azusa_kaiji/pdf/fuji_excursion.pdf) and [Fujikyu local timetable](https://e.fujikyu-railway.jp/station/timetable.php?no=1).
+
+**Kawaguchiko → Kyoto if the Mishima bus is full:** Take a **Fujikyu local train to Otsuki**, then ordinary **JR Chuo Line trains via Takao/Shinjuku to Tokyo Station**, followed by the **Tokaido Shinkansen to Kyoto**. This involves backtracking, but avoids depending on a highway-bus reservation. Allow approximately **6–8 hours overall**, depending on connections and the Shinkansen chosen; leave Kawaguchiko early and check the day's timetable. The timing is a planning estimate.
+
+**If Shinkansen reserved seats are full:** Buy a **non-reserved Hikari or Kodama ticket** and queue for the designated non-reserved cars. Seats are first-come, first-served, so you may need to stand or wait for a later train. If you can still reach Mishima by bus, use this option from Mishima rather than backtracking to Tokyo; check whether your departure runs through to Kyoto or requires a transfer. **Suica balance alone does not pay for the Shinkansen.** [Official Shinkansen seating and ticket guide](https://global.jr-central.co.jp/en/goldenroute/shinkansen/).
+
+These are backups for sold-out reservations while trains are operating normally. During weather-related suspensions or other disruption, check operator notices before setting out.
