@@ -21,12 +21,12 @@
 | October 10 | Tokyo | Toyosu Market, optional teamLab Planets, and Ginza shopping. |
 | October 11 | Tokyo | Imperial Palace East Gardens, Akihabara, and optional Ueno Park. |
 | October 12 | Kawaguchiko | Travel to Kawaguchiko; visit Oishi Park or the Panorama Ropeway, then relax overnight. |
-| October 13 | Osaka | Bus from Kawaguchiko to Shizuoka, explore for about four hours, then Shinkansen to Osaka. |
-| October 14 | Kyoto | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
+| October 13 | Shizouka | Bus from Kawaguchiko to Shizuoka, explore for about four hours, then Shinkansen to Osaka. |
+| October 14 | Uji | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
 | October 15 | Kyoto | Arashiyama Bamboo Grove, Tenryu-ji gardens, and Togetsukyo Bridge. |
-| October 16 | Kyoto | Nara day trip: Nara Park, the Great Buddha at Todai-ji, and Kasuga Taisha. |
+| October 16 | Nara | Nara day trip: Nara Park, the Great Buddha at Todai-ji, and Kasuga Taisha. |
 | October 17 | Osaka | Transfer to Osaka; Kuromon Market, Hozenji Yokocho, and Dotonbori. |
-| October 18 | Osaka | Kobe day trip for Kobe beef, Nankinmachi, and the waterfront; return to Osaka to pack. |
+| October 18 | Kobe | Kobe day trip for Kobe beef, Nankinmachi, and the waterfront; return to Osaka to pack. |
 | October 19 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and a relaxed Osaka evening. |
 | October 20 | — | Depart from Kansai International Airport (KIX) for Denver. |
 
