@@ -5,10 +5,8 @@
 - **October 4:** Depart Denver for Tokyo Narita International Airport (NRT).
 - **October 5–12:** Arrive at Narita International Airport (NRT) and stay in Tokyo for one week (7 nights).
 - **October 12–13:** Stay in Kawaguchiko (Lake Kawaguchi), in the Mount Fuji area (1 night).
-- **October 13–20:** Explore the Kansai region, including Kyoto and Osaka (7 nights).
+- **October 13–20:** Explore the Kansai region, including Osaka and Kyoto (7 nights).
 - **October 20:** Depart Osaka via Kansai International Airport (KIX) for Denver.
-
-*This outline assumes arrival at Narita (NRT) on October 5. Exact timing depends on the flights booked.*
 
 ## Daily Outline
 
@@ -16,29 +14,29 @@
 | --- | --- | --- |
 | October 4 | In transit | Depart Denver for Tokyo Narita (NRT). |
 | October 5 | Tokyo | Arrive at Narita (NRT), transfer to Tokyo, check in, and settle in. |
-| October 6 | Tokyo | Harajuku: Meiji Jingu, Takeshita Street, and Omotesando. |
+| October 6 | Tokyo | Harajuku and Shibuya, including Meiji Jingu, Takeshita Street, Omotesando, Shibuya Crossing, and Pokémon Center. |
 | October 7 | Tokyo | Inokashira Park and Kichijoji, then Nakano Broadway for manga and collectibles. |
-| October 8 | Tokyo | Toyosu Market, optional teamLab Planets, and Ginza shopping. |
+| October 8 | Tokyo | Tokyo DisneySea. |
 | October 9 | Tokyo | Asakusa: Senso-ji, Nakamise shopping street, and the Sumida River. |
-| October 10 | Tokyo | Shibuya: Pokémon Center, Shibuya Crossing, and MEGA Don Quijote. |
+| October 10 | Tokyo | Toyosu Market, optional teamLab Planets, and Ginza shopping. |
 | October 11 | Tokyo | Imperial Palace East Gardens, Akihabara, and optional Ueno Park. |
 | October 12 | Kawaguchiko | Travel to Kawaguchiko; visit Oishi Park or the Panorama Ropeway, then relax overnight. |
-| October 13 | Kyoto | Bus from Kawaguchiko to Mishima, then Shinkansen to Kyoto; settle in. |
+| October 13 | Osaka | Bus from Kawaguchiko to Shizuoka, explore for about four hours, then Shinkansen to Osaka. |
 | October 14 | Kyoto | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
 | October 15 | Kyoto | Arashiyama Bamboo Grove, Tenryu-ji gardens, and Togetsukyo Bridge. |
 | October 16 | Kyoto | Nara day trip: Nara Park, the Great Buddha at Todai-ji, and Kasuga Taisha. |
 | October 17 | Osaka | Transfer to Osaka; Kuromon Market, Hozenji Yokocho, and Dotonbori. |
-| October 18 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and a relaxed Osaka evening. |
-| October 19 | Osaka | Kobe day trip for Kobe beef, Nankinmachi, and the waterfront; return to Osaka to pack. |
+| October 18 | Osaka | Kobe day trip for Kobe beef, Nankinmachi, and the waterfront; return to Osaka to pack. |
+| October 19 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and a relaxed Osaka evening. |
 | October 20 | — | Depart from Kansai International Airport (KIX) for Denver. |
 
 ## Tokyo Recommendations — October 5–11
 
 These are suggested neighborhood groupings, with time for meals and wandering. Swap days around ticket availability and opening calendars; keep October 5 light after the flight.
 
-### October 6: Harajuku and Omotesando
+### October 6: Harajuku, Omotesando, and Shibuya
 
-Start with the wooded grounds of **Meiji Jingu**, then browse **Takeshita Street** for fashion, snacks, and people-watching. Spend the afternoon around **Omotesando** for shops and cafés. Add a break in **Yoyogi Park** if you want a slower afternoon. [Official Harajuku guide](https://www.japan.travel/en/spot/2174/).
+Start with the wooded grounds of **Meiji Jingu**, then browse **Takeshita Street** and **Omotesando**. Continue to **Shibuya** for Shibuya Crossing, **Pokémon Center SHIBUYA**, and MEGA Don Quijote. Keep the afternoon selective and allow a café or meal break; this combines the former October 6 and October 10 plans. [Official Harajuku guide](https://www.japan.travel/en/spot/2174/) and [official Pokémon Center location](https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/).
 
 ### October 7: Kichijoji, Inokashira Park, and Nakano
 
@@ -46,7 +44,11 @@ Start with a walk around the pond in **Inokashira Park**, then stop for coffee i
 
 In the afternoon, take a **JR Chuo Line train that stops at Nakano**, then walk through **Nakano Sun Mall** to **Nakano Broadway** for manga, anime merchandise, and collectibles. Allow around 2–3 hours to browse; individual shop hours vary. Have dinner in Nakano before returning to your hotel, or skip Nakano for a slower day and stay in Kichijoji for dinner around Harmonica Yokocho. [Official Nakano guide](https://www.gotokyo.org/en/destinations/western-tokyo/nakano/) and [Nakano Broadway information](https://www.gotokyo.org/en/spot/72/index.html).
 
-### October 8: Toyosu, Immersive Art, and Ginza
+### October 8: Tokyo DisneySea
+
+Spend the full day at **Tokyo DisneySea**. Reserve admission and check the official app for park hours, entry requirements, attractions, and restaurant reservations. Arrive before opening if you want to prioritize popular rides, and keep the evening flexible rather than scheduling another Tokyo neighborhood afterward. [Official Tokyo Disney Resort website](https://www.tokyodisneyresort.jp/en/).
+
+### October 10: Toyosu, Immersive Art, and Ginza
 
 Head to **Toyosu Market** in the morning for a seafood breakfast and the public viewing areas. Make **teamLab Planets** an optional second stop for immersive art; reserve a timed ticket ahead. Spend the afternoon in **Ginza** browsing department stores and shops, with a café break and dinner in the area. If you include teamLab Planets, keep the Ginza visit to a few selected shops. [Official Ginza guide](https://www.gotokyo.org/en/destinations/central-tokyo/ginza/).
 
@@ -55,10 +57,6 @@ Check the [official market calendar and visitor information](https://www.english
 ### October 9: Asakusa and the Sumida River
 
 Visit **Senso-ji** early, browse **Nakamise shopping street** as shops open, and have lunch in Asakusa. Spend the afternoon walking along the **Sumida River**. This is a good day to leave room for snacks, souvenir shopping, and photography. [Official Asakusa sightseeing map](https://www.gotokyo.org/book/wp-content/uploads/2025/09/2509_taito-kankomap_EN_low.pdf).
-
-### October 10: Shibuya, Pokémon Center, and Don Quijote
-
-Visit **Pokémon Center SHIBUYA**, on the **6th floor of Shibuya PARCO**, then browse the surrounding shops. Add **Shibuya Crossing** and a café break, with dinner in Shibuya. Stop at **MEGA Don Quijote Shibuya Honten** for Japanese snacks, souvenirs, cosmetics, and everyday goods; leave this toward the end of the day so you can take your shopping back to the hotel. [Official Don Quijote visitor guide](https://www.gotokyo.org/en/spot/1879/index.html). [Official Pokémon Center location and hours](https://shop.pokemon.co.jp/en/shop/pokemoncenter-shibuya/).
 
 ### October 11: Imperial Palace, Akihabara, and Optional Ueno
 
@@ -78,9 +76,9 @@ If the weather is clear, consider the **Mt. Fuji Panorama Ropeway** as an altern
 
 For lunch or dinner, try **hoto**, Yamanashi's flat noodles simmered with vegetables in a miso-based broth. Spend the evening relaxing at your hotel; if you choose a ryokan with an **onsen and dinner**, reserve the meal plan and confirm its check-in and dinner times. [Official guide to hoto](https://www.yamanashi-kankou.jp/english/staff-journal/houtou.html).
 
-### October 13: Lakeside Morning Before Kyoto
+### October 13: Lakeside Morning Before Osaka
 
-Have breakfast and take a short lakeside walk near your accommodation if time allows. Keep the morning simple so you can collect your luggage and reach Kawaguchiko Station comfortably for the reserved bus to Mishima. See [Transportation](#transportation) for the onward route to Kyoto.
+Have breakfast and take a short lakeside walk near your accommodation if time allows. Keep the morning simple so you can collect your luggage and reach Kawaguchiko Station comfortably for the reserved bus to Shizuoka. See [Transportation](#transportation) for the onward route to Osaka.
 
 ### Rainy-Day Alternative
 
@@ -88,11 +86,19 @@ If clouds or rain limit the views, consider the **Itchiku Kubota Art Museum** fo
 
 ## Kansai Recommendations — October 13–20
 
-Use **Kyoto as your base for October 13–17** and **Osaka for October 17–20**, with day trips to Nara and Kobe. Keep the arrival day light, and book the Uji matcha ceremony and Kobe beef meal once the timing is settled.
+Use **Osaka as your base from October 13 to October 20**, with day trips to Kyoto, Nara, Uji and Kobe. Keep the Shizuoka stop focused and the Osaka arrival evening light.
 
-### October 13: Arrive in Kyoto
+### October 13: Shizuoka Stopover and Arrive in Osaka
 
-Take the reserved bus from Kawaguchiko Station to Mishima Station, then the Tokaido Shinkansen to Kyoto (see [Transportation](#transportation)). Check in and have an easy dinner near your hotel. If you arrive with energy to spare, take a short evening walk along the **Kamogawa River**. Save the main sightseeing for the next morning.
+Take the reserved bus from Kawaguchiko Station to **Shizuoka Station**, leave luggage at the station, and spend roughly four hours in central Shizuoka before taking the Tokaido Shinkansen to **Shin-Osaka** (see [Transportation](#transportation)). The most efficient plan is **Sumpu Castle Park → Shizuoka Sengen Shrine → lunch featuring local tea or Shizuoka oden**, all in or near the city center. If you prefer a single scenic excursion, substitute **Nihondaira and Kunozan Toshogu**, but it is less forgiving with a four-hour limit because the shrine is about 45 minutes from Shizuoka Station by bus each way. [Shizuoka City Tourism](https://www.visit-shizuoka.com/en/)
+
+### Four-hour Shizuoka recommendations
+
+- **Best balanced option:** Store your bags, walk through **Sumpu Castle Park**, visit **Shizuoka Sengen Shrine**, then have lunch and a tea tasting near the station. This keeps the day walkable and leaves a sensible buffer for the Shinkansen.
+- **Food-and-tea option:** Browse the station area and **Aoba Oden Street**, try Shizuoka oden, and visit a tea shop or café. Shizuoka is known for tea, sakura shrimp, shirasu, and oden. Use the city-center option if your bus arrives late or your train reservation is tight. [Official Shizuoka food and culture guide](https://www.visit-shizuoka.com/en/)
+- **Scenery/history option:** Take the bus to **Nihondaira**, ride the ropeway to **Kunozan Toshogu**, and return to Shizuoka Station. The ropeway ride takes about five minutes, and the shrine is open 9:00–17:00, but this plan depends heavily on bus and ropeway timing; do not attempt it without checking the same-day timetable. [Kunozan Toshogu access and hours](https://www.visit-shizuoka.com/en/spot/detail_416.html)
+
+Allow at least **30–45 minutes at Shizuoka Station before the reserved train** for luggage collection, platform navigation, and an unexpected bus delay. The direct Shinkansen destination is **Shin-Osaka**, not Osaka Station; continue by local train from Shin-Osaka if your hotel is in Namba, Umeda, or another Osaka neighborhood.
 
 ### October 14: Fushimi Inari and Uji Matcha Ceremony
 
@@ -108,19 +114,18 @@ Go to **Arashiyama** early for the **Bamboo Grove**, then visit **Tenryu-ji's ga
 
 Take a day trip from Kyoto to **Nara**. Walk through **Nara Park** and visit **Todai-ji's Great Buddha Hall**—this is the Great Buddha included in the itinerary. After lunch, continue to **Kasuga Taisha** for its lantern-lined approaches. If you have energy, add **Nigatsudo Hall** near Todai-ji before returning to Kyoto for dinner. These sights make a full day on foot, so treat the extra hall as optional. [Official Nara Park area guide](https://www.visitnara.jp/destinations/area/nara-park/).
 
-### October 17: Arrive in Osaka and Explore Dotonbori
+### October 17: Explore Dotonbori
 
-Transfer to Osaka in the morning and drop your bags at the hotel. Browse **Kuromon Market** for lunch, then explore the small lanes around **Hozenji Yokocho**. Spend the evening in **Dotonbori** for the canal, neon signs, and an Osaka food crawl: try **takoyaki** and **okonomiyaki**, leaving time to sit down for dinner. [Kuromon Market guide](https://metronine.osaka/en/spot-details/?spot_id=15623449283189) and [official Dotonbori guide](https://osaka-info.jp/en/spot/dotonbori/).
+Browse **Kuromon Market** for lunch, then explore the small lanes around **Hozenji Yokocho**. Spend the evening in **Dotonbori** for the canal, neon signs, and an Osaka food crawl: try **takoyaki** and **okonomiyaki**, leaving time to sit down for dinner. [Kuromon Market guide](https://metronine.osaka/en/spot-details/?spot_id=15623449283189) and [official Dotonbori guide](https://osaka-info.jp/en/spot/dotonbori/).
 
-### October 18: Osaka Castle and Shopping
+### October 18: Kobe Beef and the Waterfront
 
-Spend the morning in **Osaka Castle Park**, with the castle museum as an optional indoor stop. After lunch, head to **Shinsaibashi** for shopping and cafés. Keep the evening flexible for a favorite food stop or another walk around Dotonbori. This leaves breathing room between the Nara and Kobe day trips. [Official Osaka sightseeing guide](https://www.osaka-info.jp/en/spot/).
+Take a day trip from Osaka to **Kobe**, making a reserved **Kobe beef lunch** the centerpiece. Choose a restaurant and set menu that explicitly includes Kobe beef, and confirm the cut, portion size, and total price before booking. After lunch, browse **Nankinmachi (Chinatown)**, then enjoy the waterfront around **Meriken Park** and **Harborland**. Return to Osaka in the evening with time to pack. [Official Kobe travel guide](https://www.feel-kobe.jp/en/).
 
-### October 19: Kobe Beef and the Waterfront
+### October 19: Osaka Castle and Shopping
 
-Take a day trip from Osaka to **Kobe**, making a reserved **Kobe beef lunch** the centerpiece. Choose a restaurant and set menu that explicitly includes Kobe beef, and confirm the cut, portion size, and total price before booking. The city's [Kobe steak restaurant directory](https://www.feel-kobe.jp/lsc/upfile/articleDetail/0000/0013/13_d006_file.pdf) is a starting point; verify current menus and hours directly with the restaurant.
+Spend the morning in **Osaka Castle Park**, with the castle museum as an optional indoor stop. After lunch, head to **Shinsaibashi** for shopping and cafés. Keep the evening flexible for a favorite food stop or another walk around Dotonbori. [Official Osaka sightseeing guide](https://www.osaka-info.jp/en/spot/).
 
-After lunch, browse **Nankinmachi (Chinatown)**, then enjoy the waterfront around **Meriken Park** and **Harborland**. Return to Osaka in the evening with time to pack for the flight. [Official Kobe travel guide](https://www.feel-kobe.jp/en/).
 
 ### October 20: Fly Home
 
@@ -162,21 +167,21 @@ Plan a morning departure to leave time to explore before the overnight stay. Arr
 
 **Suica accepted:** Use your Suica or Welcome Suica for ordinary **Fujikyu Railway** fares and **Fujikyu local buses**, including the Kawaguchiko sightseeing buses. This makes the bus a practical option for reaching Oishi Park from Kawaguchiko Station. Keep enough balance for the return journey. [Official Fujikyu Railway IC-card guide](https://www.fujikyu-railway.jp/en/column/suica.php) and [official local-bus payment information](https://bus.fujikyu.co.jp/rosen/).
 
-**Separate tickets:** Suica alone does not cover the **FUJI EXCURSION limited-express supplement and seat reservation**. Buy the recommended highway buses as separately booked tickets, including the **Kawaguchiko–Mishima Liner**, rather than planning to board with a Suica tap. Attraction admission, such as the ropeway, is separate from local transport fares.
+**Separate tickets:** Suica alone does not cover the **FUJI EXCURSION limited-express supplement and seat reservation**. Buy the recommended highway bus as a separately booked ticket rather than planning to board with a Suica tap. Attraction admission, such as the ropeway, is separate from local transport fares.
 
-### Kawaguchiko to Kyoto — October 13
+### Kawaguchiko to Shizuoka and Osaka — October 13
 
-**Recommended route: Kawaguchiko Station → Mishima Station → Kyoto Station.** Take the **Mishima–Kawaguchiko Liner highway bus** to **Mishima Station North Exit**, then transfer to the **Tokaido Shinkansen** toward Kyoto. This route lets you continue west without returning to Tokyo.
+**Recommended route: Kawaguchiko Station → Shizuoka Station → Shin-Osaka Station.** Take a highway bus to **Shizuoka Station**, explore central Shizuoka, then board the **Tokaido Shinkansen** westbound to Shin-Osaka.
 
-The bus currently takes approximately **80–90 minutes** to Mishima's North Exit. Reserve ahead through the [official bus timetable and booking page](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html). The listed adult one-way fare is **¥2,700**, or **¥2,500 with the web discount**; check the price for your departure when booking. I recommend leaving **at least 45–60 minutes between the scheduled bus arrival and train departure**, with more time during heavy traffic; the connection is not guaranteed.
+Check the current highway-bus timetable and reserve ahead through the [official Fujikyu bus information](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html). Allow **at least 45–60 minutes between the scheduled bus arrival and Shinkansen**, plus time to store or collect luggage; highway traffic can make the connection late.
 
-For the train, look for a **direct Hikari from Mishima to Kyoto** when its departure fits your bus. Otherwise, use a **Kodama with a transfer to a faster train**, following the itinerary shown by the booking system. **Nozomi trains do not stop at Mishima.** Compare departures and reserve through [Smart EX](https://smart-ex.jp/en/), using the [official JR Central timetable](https://global.jr-central.co.jp/en/info/timetable/) as a reference. Budget roughly **4–5 hours station to station overall**, depending on the train and connection, plus travel between your hotels and the stations. This is a planning allowance, not a fixed journey time.
+For the train, reserve a **Hikari or Nozomi from Shizuoka to Shin-Osaka** after fixing the stopover. Compare departures and reserve through [Smart EX](https://smart-ex.jp/en/), using the [official JR Central timetable](https://global.jr-central.co.jp/en/info/timetable/) as a reference. Budget roughly **3 hours from Shizuoka to Shin-Osaka**, depending on the selected service.
 
-**Shinkansen: not payable from your Suica balance.** Buy the Mishima–Kyoto ticket separately. If you link your Suica to a **Smart EX reservation**, you can tap it at the Shinkansen gates, but the train ticket is paid through Smart EX, not deducted from your Suica balance. [Official Smart EX IC-card boarding guide](https://www.smart-ex.jp/en/entraining/iccard/).
+**Shinkansen: not payable from your Suica balance.** Buy the Shizuoka–Shin-Osaka ticket separately. If you link your Suica to a **Smart EX reservation**, you can tap it at the Shinkansen gates, but the train ticket is paid through Smart EX, not deducted from your Suica balance. [Official Smart EX IC-card boarding guide](https://www.smart-ex.jp/en/entraining/iccard/).
 
 ### Getting Around Kansai
 
-**Suica accepted in Kansai — no new ICOCA needed:** Use trains and subways for the main journeys, then walk within each sightseeing area. Keep using your **Suica or PASMO from Tokyo**, or get an **ICOCA**; these cards work on participating Kansai transport networks. Top up as needed. Buy the Mishima–Kyoto Shinkansen ticket separately, and purchase any required limited-express supplement in addition to the basic fare. For this itinerary, I recommend individual tickets and an IC card as the starting point; compare a pass only once your exact trips are fixed. [Official IC-card coverage](https://www.westjr.co.jp/global/en/howto/icoca/area/).
+**Suica accepted in Kansai — no new ICOCA needed:** Use trains and subways for the main journeys, then walk within each sightseeing area. Keep using your **Suica or PASMO from Tokyo**, or get an **ICOCA**; these cards work on participating Kansai transport networks. Top up as needed. Buy the Shizuoka–Shin-Osaka Shinkansen ticket separately, and purchase any required limited-express supplement in addition to the basic fare. For this itinerary, I recommend individual tickets and an IC card as the starting point; compare a pass only once your exact trips are fixed. [Official IC-card coverage](https://www.westjr.co.jp/global/en/howto/icoca/area/).
 
 **Kyoto sightseeing — October 14–15 (Suica accepted on the JR routes below):** From Kyoto Station, take a **JR Nara Line local train to Inari Station** for Fushimi Inari; make sure the service stops at Inari. After the shrine, continue on a **JR Nara Line local train from Inari to Uji** for the matcha ceremony. Check the walk from **JR Uji Station** to the venue once its address is confirmed; JR Uji and Keihan Uji are separate stations. Return from JR Uji to Kyoto Station after sightseeing. For Arashiyama, take the **JR Sagano Line from Kyoto Station to Saga-Arashiyama**, then walk to the bamboo grove and temples. Use buses or a short taxi ride where they save a long walk, but favor rail for crossing the city. [Official Kyoto transport guide](https://kyoto.travel/en/getting-around/) and [Arashiyama access](https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/).
 
@@ -184,9 +189,9 @@ For the train, look for a **direct Hikari from Mishima to Kyoto** when its depar
 
 **Kyoto to Osaka — October 17 (Suica accepted on JR Special Rapid and Osaka Metro):** Take the **JR Kyoto Line Special Rapid from Kyoto Station to Osaka Station**, approximately **30 minutes**. Osaka Station is in the **Umeda** area; transfer to the **Osaka Metro Midosuji Line** for Shinsaibashi or Namba if that is where your hotel is located. The best departure route may change if you stay nearer a Hankyu or Keihan station in Kyoto. [Official Kyoto–Osaka access guidance](https://kyoto.travel/en/getting-to).
 
-**Within Osaka — October 17–18 (Suica accepted on Osaka Metro and JR):** Use the **Osaka Metro** and walk between nearby stops. The **Midosuji Line** connects Umeda, Shinsaibashi, and Namba; **Namba** is convenient for Dotonbori, while **Nippombashi** is convenient for Kuromon Market. For Osaka Castle Park, use **Morinomiya** or **Osakajokoen**, depending on your starting point. Check the route from your hotel before departing. [Osaka Metro visitor guide](https://metronine.osaka/en/).
+**Within Osaka — October 17–19 (Suica accepted on Osaka Metro and JR):** Use the **Osaka Metro** and walk between nearby stops. The **Midosuji Line** connects Umeda, Shinsaibashi, and Namba; **Namba** is convenient for Dotonbori, while **Nippombashi** is convenient for Kuromon Market. For Osaka Castle Park, use **Morinomiya** or **Osakajokoen**, depending on your starting point. Check the route from your hotel before departing. [Osaka Metro visitor guide](https://metronine.osaka/en/).
 
-**Kobe day trip — October 19 (Suica accepted on JR Special Rapid):** Take the **JR Kobe Line Special Rapid from Osaka Station to Sannomiya**, allowing roughly **25–30 minutes on the train**. Use central Sannomiya as the starting point for lunch; the restaurant address may make another station more convenient. Explore Nankinmachi and the waterfront on foot, with local transport for longer stretches, then return to Osaka by train. [Official Kobe access information](https://www.feel-kobe.jp/access/) and [getting around Kobe](https://www.feel-kobe.jp/en/access/inside.html).
+**Kobe day trip — October 18 (Suica accepted on JR Special Rapid):** Take the **JR Kobe Line Special Rapid from Osaka Station to Sannomiya**, allowing roughly **25–30 minutes on the train**. Use central Sannomiya as the starting point for lunch; the restaurant address may make another station more convenient. Explore Nankinmachi and the waterfront on foot, with local transport for longer stretches, then return to Osaka by train. [Official Kobe access information](https://www.feel-kobe.jp/access/) and [getting around Kobe](https://www.feel-kobe.jp/en/access/inside.html).
 
 **Airport transfer — October 20:** For your departure from **Kansai International Airport (KIX)**, if you stay near Namba, use the **Nankai Airport Express** or reserved-seat **Rapi:t** from Nankai Namba Station. Choose the final route and departure time after the hotel and flight time are confirmed. [Official Nankai Rapi:t information](https://www.howto-osaka.com/en/rapit/).
 
@@ -198,8 +203,8 @@ The flags below distinguish **BOOK BEFORE OCTOBER 4 — RECOMMENDED** from **CAN
 
 - **October 5 — Narita airport train:** **CAN BOOK IN JAPAN.** Choose **Narita Express or Keisei Skyliner** based on your hotel and obtain the appropriate ticket and seat assignment before boarding. Booking days ahead is optional; choosing a departure after immigration and baggage collection gives more flexibility. [Narita Express](https://www.jreast.co.jp/en/multi/nex/) and [Skyliner](https://new-www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/index.php).
 - **October 12 — Shinjuku → Kawaguchiko:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the **FUJI EXCURSION** train ahead for your preferred departure. If choosing the **direct highway bus instead**, reserve that service; book one option for this journey. [Train information](https://e.fujikyu-railway.jp/fujikaiyuu/) and [bus reservations](https://highway-buses.jp/course/kawaguchiko.php).
-- **October 13 — Kawaguchiko → Mishima:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Advance booking is strongly recommended for the **Mishima–Kawaguchiko Liner**. Choose the bus before fixing the onward train, allowing at least the recommended 45–60-minute connection buffer. [Bus reservations](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html).
-- **October 13 — Mishima → Kyoto:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve your **Shinkansen seat** ahead, including any connecting train if needed. Advance reservation is recommended for a guaranteed seat; it is not mandatory for ordinary non-reserved Hikari/Kodama seating. [Smart EX booking](https://smart-ex.jp/en/).
+- **October 13 — Kawaguchiko → Shizuoka:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the highway bus ahead, then allow at least 45–60 minutes before the Shinkansen, with extra time for traffic. [Bus information](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html).
+- **October 13 — Shizuoka → Shin-Osaka:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the **Shinkansen seat** after fixing the bus and sightseeing buffer. [Smart EX](https://smart-ex.jp/en/).
 - **October 16 — Kyoto ↔ Nara, only if choosing a Kintetsu limited express:** **CAN BOOK IN JAPAN.** Reserve a seat for each limited-express journey you choose. **Ordinary express trains need no reservation.** [Kintetsu limited-express tickets](https://www.kintetsu.co.jp/foreign/english/about/limited_express/ticket.html).
 - **October 20 — Namba → Kansai Airport, only if choosing Rapi:t:** **CAN BOOK IN JAPAN.** Buy a **reserved-seat Rapi:t ticket** before boarding; booking ahead secures your preferred departure. **The Nankai Airport Express needs no seat reservation.** [Rapi:t information](https://www.howto-osaka.com/en/rapit/).
 
