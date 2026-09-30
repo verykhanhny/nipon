@@ -12,7 +12,7 @@
 
 | Date | Overnight | Plan |
 | --- | --- | --- |
-| October 4 | In transit | Depart Denver for Tokyo Narita (NRT). |
+| October 4 | Denver | Depart Denver International Airport (DEN) for Tokyo Narita (NRT). |
 | October 5 | Tokyo | Arrive at Narita (NRT), transfer to Tokyo, check in, and settle in. |
 | October 6 | Tokyo | Harajuku, Stüssy Shibuya, Pokémon Center, Shibuya Crossing, and Shibuya Sky. |
 | October 7 | Tokyo | Short Kichijoji/Inokashira Park visit, Nakano Broadway, then Kabukicho and the Godzilla head. |
@@ -28,7 +28,7 @@
 | October 17 | Osaka | Kuromon Market, Hozenji Yokocho, and Dotonbori. |
 | October 18 | Kobe | Kobe day trip for Mouriya Sannomiyaten beef lunch, Nankinmachi, and the waterfront. |
 | October 19 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and evening packing for departure. |
-| October 20 | — | Depart from Kansai International Airport (KIX) for Denver. |
+| October 20 | Osaka | Depart from Kansai International Airport (KIX) for Denver (DEN). |
 
 ## Food Stops by Day
 
