@@ -20,7 +20,7 @@
 | October 9 | Tokyo | Senso-ji, Nakamise, a short Sumida River walk, and Tokyo Skytree. |
 | October 10 | Tokyo | Tsukiji Outer Market breakfast, selective Ginza shopping, Marunouchi, and Tokyo Station. |
 | October 11 | Tokyo | Yanaka and Yanaka Ginza, then Akihabara; free evening to pack. |
-| October 12 | Kawaguchiko | Bus from Busta Shinjuku 06:45 → Kawaguchiko 08:30; Panorama Ropeway first, then Honcho Street (Yoshida ladder town) and Oshino Hakkai; hotel dinner. |
+| October 12 | Kawaguchiko | Bus from Busta Shinjuku 06:45 → Kawaguchiko 08:30; Panorama Ropeway first, then Hikawa Clock Shop (Yoshida ladder town) and Oshino Hakkai; hotel dinner. |
 | October 13 | Osaka | Bus: Kawaguchiko 11:30 → Shizuoka 13:40; afternoon stopover; Shinkansen: Shizuoka 18:07 → Shin-Osaka 19:57. |
 | October 14 | Uji | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
 | October 15 | Kyoto | Arashiyama morning; Kiyomizu Kyoami and Maccha House in the Kiyomizu/Sannenzaka area after lunch. |
@@ -94,9 +94,9 @@ Take the train to **Akihabara** for an afternoon of electronics, anime, and game
 
 ## Kawaguchiko Recommendations — October 12–13
 
-Visit **the Panorama Ropeway, Yoshida ladder town, and Oshino Hakkai on October 12**, keeping October 13 clear for the Shizuoka stopover and Osaka transfer. Here, **“Yoshida ladder town” is interpreted as Honcho Street in Shimoyoshida**, the street with Mount Fuji framed behind the town. Fuji visibility depends on cloud cover. [Official Honcho Street information](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
+Visit **the Panorama Ropeway, Yoshida ladder town, and Oshino Hakkai on October 12**, keeping October 13 clear for the Shizuoka stopover and Osaka transfer. Here, **“Yoshida ladder town” is interpreted as Hikawa Clock Shop in Shimoyoshida**, the landmark for the street view with Mount Fuji framed behind the town. Fuji visibility depends on cloud cover. [Official Hikawa Clock Shop information](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
 
-### October 12: Panorama Ropeway, Honcho Street, and Oshino Hakkai
+### October 12: Panorama Ropeway, Hikawa Clock Shop, and Oshino Hakkai
 
 **Travel: take the bus from Busta Shinjuku (Shinjuku Expressway Bus Terminal) at 06:45, arriving in Kawaguchiko at 08:30.** Use station storage or arrange an early hotel bag drop in advance, avoiding a lengthy hotel detour before sightseeing.
 
@@ -104,23 +104,23 @@ Visit **the Panorama Ropeway, Yoshida ladder town, and Oshino Hakkai on October 
 | --- | --- |
 | 08:30–09:00 | Arrive in Kawaguchiko and store luggage. |
 | 09:00–11:00 | Travel to the Panorama Ropeway, queue, ride, and enjoy the views. |
-| 11:00–12:15 | Transfer to Honcho Street / Yoshida ladder town and explore. |
+| 11:00–12:15 | Transfer to Hikawa Clock Shop / Yoshida ladder town and explore. |
 | 12:15–14:30 | Transfer to Oshino Hakkai, have lunch, and visit the ponds. |
 | 14:30–16:00 | Return to Kawaguchiko, collect luggage, and head to your hotel. |
 
 **Panorama Ropeway first:** Start with the **Mt. Fuji Panorama Ropeway** so its queue does not threaten a late-afternoon visit. The two-hour block includes travel and waiting, not just time at the top. Check that day's opening time and operating status before leaving the station; wind or other weather can suspend service. [Official ropeway information](https://www.mtfujiropeway.jp/en/).
 
-**Honcho Street (Yoshida ladder town):** After the ropeway, return toward Kawaguchiko Station and take a local Fujikyu Railway train to **Shimoyoshida**, then walk to Honcho Street; use a taxi if the connection would leave too little sightseeing time. Aim for around 30–45 minutes for the neighborhood and photos. Stay on sidewalks and use designated crossings; this is an active road and residential area. [Official visitor guidance](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
+**Hikawa Clock Shop (Yoshida ladder town):** After the ropeway, return toward Kawaguchiko Station and take a local Fujikyu Railway train to **Shimoyoshida**, then walk to Hikawa Clock Shop; use a taxi if the connection would leave too little sightseeing time. Aim for around 30–45 minutes for the surrounding street view and photos. Stay on sidewalks and use designated crossings; this is an active road and residential area. [Official visitor guidance](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
 
-**Oshino Hakkai:** Continue via **Mt. Fuji Station (Fujisan Station)** and a bus serving Oshino Hakkai, or arrange a taxi to reduce connection waits. Allow around an hour at the ponds plus a quick lunch. Check the return bus before setting out; Oshino is a separate village, not a walk from Honcho Street. [Official access guide](https://www.japan.travel/en/spot/1327/).
+**Oshino Hakkai:** Continue via **Mt. Fuji Station (Fujisan Station)** and a bus serving Oshino Hakkai, or arrange a taxi to reduce connection waits. Allow around an hour at the ponds plus a quick lunch. Check the return bus before setting out; Oshino is a separate village, not a walk from Hikawa Clock Shop. [Official access guide](https://www.japan.travel/en/spot/1327/).
 
-These are planning estimates, not matched bus/train connections. **October 12 is Sports Day, a national holiday**, so allow flexibility for queues and traffic. The schedule may need a taxi for one or more transfers; if relying entirely on public transport, check connections beforehand and allow the hotel arrival to move later only if dinner/check-in times permit. If the ropeway queue would consume the morning, skip it and continue with Honcho Street and Oshino Hakkai. [Official holiday calendar](https://www.gotokyo.org/en/story/guide/public-holidays/index.html).
+These are planning estimates, not matched bus/train connections. **October 12 is Sports Day, a national holiday**, so allow flexibility for queues and traffic. The schedule may need a taxi for one or more transfers; if relying entirely on public transport, check connections beforehand and allow the hotel arrival to move later only if dinner/check-in times permit. If the ropeway queue would consume the morning, skip it and continue with Hikawa Clock Shop and Oshino Hakkai. [Official holiday calendar](https://www.gotokyo.org/en/story/guide/public-holidays/index.html).
 
 Keep **Oishi Park and other extra attractions off this day's plan**. Collect bags and reach your accommodation with a buffer before its dinner deadline; try **hoto** or enjoy your ryokan meal and onsen. Keep any October 13 lakeside walk close to the accommodation.
 
 ### October 13: Lakeside Morning Before Shizuoka and Osaka
 
-Have breakfast and take a short lakeside walk near your accommodation. Collect your luggage and aim to reach the departure point around **11:00** for the **11:30 Kawaguchiko → 13:40 Shizuoka bus**. Do not leave Oshino Hakkai or Honcho Street for this morning: the Shizuoka stopover already makes this a full travel day. See [Transportation](#transportation) for the onward route to Osaka.
+Have breakfast and take a short lakeside walk near your accommodation. Collect your luggage and aim to reach the departure point around **11:00** for the **11:30 Kawaguchiko → 13:40 Shizuoka bus**. Do not leave Oshino Hakkai or Hikawa Clock Shop for this morning: the Shizuoka stopover already makes this a full travel day. See [Transportation](#transportation) for the onward route to Osaka.
 
 ### Rainy-Day Alternative
 
@@ -218,7 +218,7 @@ Store luggage on arrival before sightseeing, and arrange the final transfer to y
 
 ### Getting Around Kawaguchiko
 
-**Suica accepted:** Use your Suica or Welcome Suica for ordinary **Fujikyu Railway** fares and **Fujikyu local buses**, including the Kawaguchiko sightseeing buses. Use local trains for Shimoyoshida/Honcho Street, then a bus from Mt. Fuji Station toward Oshino Hakkai. Check the specific bus stops, departure times, and return service before setting out; allow time to collect stored bags. Keep enough balance for the return journey. [Official Fujikyu Railway IC-card guide](https://www.fujikyu-railway.jp/en/column/suica.php) and [official local-bus payment information](https://bus.fujikyu.co.jp/rosen/).
+**Suica accepted:** Use your Suica or Welcome Suica for ordinary **Fujikyu Railway** fares and **Fujikyu local buses**, including the Kawaguchiko sightseeing buses. Use local trains for Shimoyoshida/Hikawa Clock Shop, then a bus from Mt. Fuji Station toward Oshino Hakkai. Check the specific bus stops, departure times, and return service before setting out; allow time to collect stored bags. Keep enough balance for the return journey. [Official Fujikyu Railway IC-card guide](https://www.fujikyu-railway.jp/en/column/suica.php) and [official local-bus payment information](https://bus.fujikyu.co.jp/rosen/).
 
 **Separate tickets:** Use separately booked tickets for the **Busta Shinjuku–Kawaguchiko** and **Kawaguchiko–Shizuoka** buses rather than planning to board with a Suica tap. Attraction admission, such as the ropeway, is separate from local transport fares.
 
