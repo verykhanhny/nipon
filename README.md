@@ -10,7 +10,7 @@
 
 ## Daily Outline
 
-| Date | Overnight | Plan |
+| Date | Location | Plan |
 | --- | --- | --- |
 | October 4 | Denver | Depart Denver International Airport (DEN) for Tokyo Narita (NRT). |
 | October 5 | Tokyo | Arrive at Narita (NRT), transfer to Tokyo, check in, and settle in. |
@@ -229,7 +229,7 @@ Store luggage on arrival before sightseeing, and arrange the final transfer to y
 | Bus: Kawaguchiko → Shizuoka | October 13, 11:30 | October 13, 13:40 | 2 hours 10 minutes |
 | Shinkansen: Shizuoka → Shin-Osaka | October 13, 18:07 | October 13, 19:57 | 1 hour 50 minutes |
 
-Take the **Kawaguchiko–Shizuoka bus**, then the **Shizuoka–Shin-Osaka Shinkansen**, using the times above. [Bus information](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html) and [Shinkansen reservations](https://smart-ex.jp/en/).
+Take the **Kawaguchiko–Shizuoka bus**, then the **Shizuoka–Shin-Osaka Shinkansen**, using the times above. Select **Kawaguchiko Station → Shizuoka Station North Exit** when booking the bus. [Fujikyu timetable](https://www.fujikyu-travel.co.jp/free5/timetablehighway_shizuoka.html). [Official Shizuoka bus route and reservations](https://bus.fujikyu.co.jp/highway/shizuoka-fuji/) and [Shinkansen reservations](https://smart-ex.jp/en/).
 
 **Shin-Osaka arrival is 19:57.** The local transfer to Osaka Station, Namba, or your hotel comes afterward; leave sightseeing off the arrival evening.
 
@@ -261,21 +261,14 @@ The flags below distinguish **BOOK BEFORE OCTOBER 4 — RECOMMENDED** from **CAN
 
 - **October 5 — Narita airport train:** **CAN BOOK IN JAPAN.** Choose **Narita Express or Keisei Skyliner** based on your hotel and obtain the appropriate ticket and seat assignment before boarding. Booking days ahead is optional; choosing a departure after immigration and baggage collection gives more flexibility. [Narita Express](https://www.jreast.co.jp/en/multi/nex/) and [Skyliner](https://new-www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/index.php).
 - **October 6 — Shibuya Sky:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Choose an available timed entry and arrange Shibuya shopping around it. [Official tickets](https://www.shibuya-scramble-square.com/sky/ticket/).
+- **October 8 — Tokyo DisneySea:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED, if not already booked.** Buy admission specifically for **DisneySea on October 8, 2026**. Tickets go on sale two months ahead and sales may stop when the daily limit is reached, so check availability now. Save the ticket confirmation and set up the official app before the visit. [Official park tickets](https://www.tokyodisneyresort.jp/en/ticket/index.html).
 - **October 9 — Tokyo Skytree:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve an afternoon entry after Asakusa; leave a buffer for lunch and the transfer. [Official tickets](https://global-official-ticket.tokyo-skytree.jp/en/home).
 - **October 12 — Bus: Busta Shinjuku 06:45 → Kawaguchiko 08:30:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED, if not already booked.** Keep the bus ticket handy and check the terminal display for the boarding bay. [Bus reservations](https://highway-buses.jp/course/kawaguchiko.php).
-- **October 13 — Bus: Kawaguchiko 11:30 → Shizuoka 13:40:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the highway bus ahead, then allow at least 45–60 minutes before the Shinkansen, with extra time for traffic. [Bus information](https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html).
+- **October 13 — Bus: Kawaguchiko 11:30 → Shizuoka 13:40:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve **Kawaguchiko Station → Shizuoka Station North Exit** through the booking link on the official route page. Keep the planned afternoon stopover as your traffic buffer and return to the station by 17:20–17:30 for the 18:07 Shinkansen. [Official Shizuoka bus route and reservations](https://bus.fujikyu.co.jp/highway/shizuoka-fuji/).
 - **October 13 — Shinkansen: Shizuoka 18:07 → Shin-Osaka 19:57:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Reserve the **Shinkansen seat** after fixing the bus and sightseeing buffer. [Smart EX](https://smart-ex.jp/en/).
+- **October 14 — Uji matcha tea ceremony:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Choose the venue and reserve an afternoon session; the venue and time are still to be confirmed. Record the address, start time, duration, arrival instructions, and booking confirmation. Build the Fushimi Inari visit and Byodoin stop around that session. To keep Hanare dinner on this day, allow time to finish the ceremony and reach JR Uji Station for a 15:30–16:00 departure; otherwise use the dinner fallback in the daily plan.
 - **October 16 — Kyoto ↔ Nara, only if choosing a Kintetsu limited express:** **CAN BOOK IN JAPAN.** Reserve a seat for each limited-express journey you choose. **Ordinary express trains need no reservation.** [Kintetsu limited-express tickets](https://www.kintetsu.co.jp/foreign/english/about/limited_express/ticket.html).
+- **October 18 — Mouriya Sannomiyaten lunch:** **BOOK BEFORE OCTOBER 4 — RECOMMENDED.** Request an **11:30–12:00 start on Sunday, October 18**, allowing around 1.5 hours for lunch. Confirm the Sannomiyaten branch, party size, a set explicitly labeled Kobe beef, final price, and cancellation terms. The suggested time is not a confirmed reservation. [Official restaurant details](https://www.mouriya.co.jp/en/sannomiya) and [TableCheck reservations](https://www.tablecheck.com/en/shops/mouriya-sannomiya/reserve).
 - **October 20 — Namba → Kansai Airport, only if choosing Rapi:t:** **CAN BOOK IN JAPAN.** Buy a **reserved-seat Rapi:t ticket** before boarding; booking ahead secures your preferred departure. **The Nankai Airport Express needs no seat reservation.** [Rapi:t information](https://www.howto-osaka.com/en/rapit/).
 
 The ordinary JR trains, Special Rapid services, subways, and local sightseeing buses in this itinerary do not need advance seat reservations. Confirm with your Kawaguchiko accommodation whether its station shuttle requires a booking, if you plan to use one.
-
-### Backup Routes if Reserved Services Are Sold Out
-
-**Tokyo → Kawaguchiko:** Take ordinary **JR Chuo Line trains from Shinjuku to Otsuki**, changing at **Takao** if needed, then a **Fujikyu Railway local train to Kawaguchiko**. These ordinary trains do not require seat reservations; use Suica or buy basic-fare tickets. Allow roughly **3 hours**, depending on connections, and be prepared to stand on busy trains. This is the fallback if both FUJI EXCURSION and the direct highway bus are full. [JR East's alternative-route guidance](https://www.jreast.co.jp/multi/traininformation/azusa_kaiji/pdf/fuji_excursion.pdf) and [Fujikyu local timetable](https://e.fujikyu-railway.jp/station/timetable.php?no=1).
-
-**Kawaguchiko → Kyoto if the Mishima bus is full:** Take a **Fujikyu local train to Otsuki**, then ordinary **JR Chuo Line trains via Takao/Shinjuku to Tokyo Station**, followed by the **Tokaido Shinkansen to Kyoto**. This involves backtracking, but avoids depending on a highway-bus reservation. Allow approximately **6–8 hours overall**, depending on connections and the Shinkansen chosen; leave Kawaguchiko early and check the day's timetable. The timing is a planning estimate.
-
-**If Shinkansen reserved seats are full:** Buy a **non-reserved Hikari or Kodama ticket** and queue for the designated non-reserved cars. Seats are first-come, first-served, so you may need to stand or wait for a later train. If you can still reach Mishima by bus, use this option from Mishima rather than backtracking to Tokyo; check whether your departure runs through to Kyoto or requires a transfer. **Suica balance alone does not pay for the Shinkansen.** [Official Shinkansen seating and ticket guide](https://global.jr-central.co.jp/en/goldenroute/shinkansen/).
-
-These are backups for sold-out reservations while trains are operating normally. During weather-related suspensions or other disruption, check operator notices before setting out.
