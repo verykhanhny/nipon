@@ -25,9 +25,9 @@
 | October 14 | Uji | Fushimi Inari and Uji: matcha tea ceremony, Byodoin Temple, and a riverside walk. |
 | October 15 | Kyoto | Arashiyama morning; Kiyomizu Kyoami and Maccha House in the Kiyomizu/Sannenzaka area after lunch. |
 | October 16 | Nara | Nara day trip: Nara Park, the Great Buddha at Todai-ji, and Kasuga Taisha. |
-| October 17 | Osaka | Transfer to Osaka; Kuromon Market, Hozenji Yokocho, and Dotonbori. |
-| October 18 | Kobe | Kobe day trip for Mouriya Sannomiyaten beef lunch, Nankinmachi, and the waterfront; return to Osaka to pack. |
-| October 19 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and a relaxed Osaka evening. |
+| October 17 | Osaka | Kuromon Market, Hozenji Yokocho, and Dotonbori. |
+| October 18 | Kobe | Kobe day trip for Mouriya Sannomiyaten beef lunch, Nankinmachi, and the waterfront. |
+| October 19 | Osaka | Osaka Castle Park, Shinsaibashi shopping, and evening packing for departure. |
 | October 20 | — | Depart from Kansai International Airport (KIX) for Denver. |
 
 ## Food Stops by Day
@@ -94,7 +94,7 @@ Take the train to **Akihabara** for an afternoon of electronics, anime, and game
 
 ## Kawaguchiko Recommendations — October 12–13
 
-Visit **the Panorama Ropeway, Yoshida ladder town, and Oshino Hakkai on October 12**, keeping October 13 clear for the Shizuoka stopover and Osaka transfer. Here, **“Yoshida ladder town” is interpreted as Hikawa Clock Shop in Shimoyoshida**, the landmark for the street view with Mount Fuji framed behind the town. Fuji visibility depends on cloud cover. [Official Hikawa Clock Shop information](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
+Visit **the Panorama Ropeway, Yoshida ladder town, and Oshino Hakkai on October 12**, keeping October 13 clear for the Shizuoka stopover and Osaka transfer. Use **Hikawa Clock Shop (日川時計店) in Shimoyoshida** as the navigation landmark for **“Yoshida ladder town”**, the street view with Mount Fuji framed behind the town. Fuji visibility depends on cloud cover. [Official area visitor guidance](https://www.city.fujiyoshida.yamanashi.jp/page/1338.html).
 
 ### October 12: Panorama Ropeway, Hikawa Clock Shop, and Oshino Hakkai
 
@@ -179,7 +179,7 @@ Choose a set explicitly labeled **Kobe beef**. The current lunch menu lists the 
 
 ### October 19: Osaka Castle and Shopping
 
-Spend the morning in **Osaka Castle Park**, with the castle museum as an optional indoor stop. After lunch, head to **Shinsaibashi** for shopping and cafés. Keep the evening flexible for a favorite food stop or another walk around Dotonbori. [Official Osaka sightseeing guide](https://www.osaka-info.jp/en/spot/).
+Spend the morning in **Osaka Castle Park**, with the castle museum as an optional indoor stop. After lunch, head to **Shinsaibashi** for shopping and cafés. Enjoy a favorite food stop or a short walk around Dotonbori, then leave time in the evening to pack for tomorrow’s departure. [Official Osaka sightseeing guide](https://www.osaka-info.jp/en/spot/).
 
 
 ### October 20: Fly Home
